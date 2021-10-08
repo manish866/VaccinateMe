@@ -1,0 +1,5 @@
+com\example\cowin\DemoApplication.class
+com\example\cowin\schedular\VaccineNotifierScheduler.class
+com\example\cowin\web\AppInventoryRestApiController.class
+com\example\cowin\service\SendWhatsAppMessageService.class
+com\example\cowin\service\WebClientService.class
